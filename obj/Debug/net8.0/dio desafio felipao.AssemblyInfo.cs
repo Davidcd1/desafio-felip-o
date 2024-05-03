@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dio desafio felipao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5da0dad884d85e332c5f7b07125725451ab2b7ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71b7c77e493e1548e20b8c854489ccc807d750a")]
 [assembly: System.Reflection.AssemblyProductAttribute("dio desafio felipao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dio desafio felipao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
