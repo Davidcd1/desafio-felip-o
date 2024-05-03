@@ -1,0 +1,15 @@
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\dio desafio felipao.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\dio desafio felipao.AssemblyInfoInputs.cache
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\dio desafio felipao.AssemblyInfo.cs
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\dio desafio felipao.csproj.CoreCompileInputs.cache
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\dio desafio felipao.sourcelink.json
+D:\GameDev\Dio\dio-git\dio desafio felipao\bin\Debug\net8.0\dio desafio felipao.exe
+D:\GameDev\Dio\dio-git\dio desafio felipao\bin\Debug\net8.0\dio desafio felipao.deps.json
+D:\GameDev\Dio\dio-git\dio desafio felipao\bin\Debug\net8.0\dio desafio felipao.runtimeconfig.json
+D:\GameDev\Dio\dio-git\dio desafio felipao\bin\Debug\net8.0\dio desafio felipao.dll
+D:\GameDev\Dio\dio-git\dio desafio felipao\bin\Debug\net8.0\dio desafio felipao.pdb
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\dio desafio felipao.dll
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\refint\dio desafio felipao.dll
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\dio desafio felipao.pdb
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\dio desafio felipao.genruntimeconfig.cache
+D:\GameDev\Dio\dio-git\dio desafio felipao\obj\Debug\net8.0\ref\dio desafio felipao.dll
